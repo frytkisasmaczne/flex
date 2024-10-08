@@ -1,0 +1,12 @@
+{
+	"configurations": [
+		{
+			"name": "majonez",
+			"includePath": [
+			],
+			"intelliSenseMode": "msvc-x64",
+			"defines": [
+			]
+		}
+	]
+}

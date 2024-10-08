@@ -1,0 +1,17 @@
+{
+	"settings": {
+		"typescript.tsc.autoDetect": "off",
+		"npm.autoDetect": "off",
+		"gulp.autoDetect": "off",
+		"jake.autoDetect": "off",
+		"grunt.autoDetect": "off",
+		"omnisharp.useModernNet": true,
+		"dotnet.defaultSolution": "MyProject.sln"
+	},
+	"folders": [
+		{
+			"name": "MyProject",
+			"path": "."
+		}
+	]
+}

@@ -1,0 +1,18 @@
+﻿{
+  "profiles": {
+    "majonez": {
+      "commandName": "Executable",
+      "workingDirectory": "C:/Users/uso/Desktop/flaxidie/MyProject",
+      "executablePath": "C:/Program Files (x86)/Flax/Flax_1.8/Binaries/Editor/Win64/Development/FlaxEditor.exe",
+      "commandLineArgs": "-project \"C:/Users/uso/Desktop/flaxidie/MyProject\"",
+      "nativeDebugging": false
+    },
+    "Game": {
+      "commandName": "Executable",
+      "workingDirectory": "C:/Users/uso/Desktop/flaxidie/MyProject",
+      "executablePath": "C:/Program Files (x86)/Flax/Flax_1.8/Binaries/Editor/Win64/Development/FlaxEditor.exe",
+      "commandLineArgs": "-project \"C:/Users/uso/Desktop/flaxidie/MyProject\"",
+      "nativeDebugging": false
+    }
+  }
+}
